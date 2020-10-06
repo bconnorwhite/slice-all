@@ -12,7 +12,7 @@ function unconcat(left: string, array: string[]) {
   }
 }
 
-export default function splitAll(string: string, indexes: number[]) {
+export default function sliceAll(string: string, indexes: number[]) {
   const result = indexes.reduceRight(({ left, retval }, index) => ({
     left: left.slice(0, index),
     retval: unconcat(left.slice(index), retval)
