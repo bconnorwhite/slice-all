@@ -1,6 +1,6 @@
 {
   "name": "slice-all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slice a string at multiple locations",
   "license": "MIT",
   "author": {
