@@ -1,6 +1,6 @@
 {
   "name": "slice-all",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Slice a string at multiple locations",
   "main": ".auto/build/index.js",
   "author": "Connor White",
