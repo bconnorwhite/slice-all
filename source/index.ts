@@ -2,7 +2,7 @@
 type Context = {
   left: string;
   retval: string[];
-}
+};
 
 function unconcat(left: string, array: string[]) {
   if(left) {
